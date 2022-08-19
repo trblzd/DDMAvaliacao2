@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "avaliacao2",
-    "slug": "avaliacao2",
+    "name": "ExemploVideoAutenticacao",
+    "slug": "ExemploVideoAutenticacao",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
